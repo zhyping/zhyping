@@ -254,52 +254,66 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 🇨🇳 轮播,#genre#
-周星驰专辑轮播,http://194.147.100.49:8030/live12/live.m3u8
-李连杰专辑轮播,http://194.147.100.49:8030/lljdy/live.m3u8
-成龙专辑轮播,http://194.147.100.49:8030/cldy/live.m3u8
-综合频道1,http://194.147.100.49:8030/zh01/live.m3u8
-综合频道2,http://194.147.100.49:8030/zh02/live.m3u8
-综合频道3,http://194.147.100.49:8030/zh03/live.m3u8
-综合频道4,http://194.147.100.49:8030/zh04/live.m3u8
-综合频道5,http://194.147.100.49:8030/zh05/live.m3u8
-综合频道6,http://194.147.100.49:8030/zh06/live.m3u8
-综合频道7,http://194.147.100.49:8030/zh07/live.m3u8
-综合频道8,http://194.147.100.49:8030/zh08/live.m3u8
-综合频道9,http://194.147.100.49:8030/zh09/live.m3u8
-综合频道10,http://194.147.100.49:8030/zh10/live.m3u8
-综合频道11,http://194.147.100.49:8030/zh11/live.m3u8
-综合频道12,http://194.147.100.49:8030/zh12/live.m3u8
-综合频道13,http://194.147.100.49:8030/zh13/live.m3u8
-综合频道14,http://194.147.100.49:8030/zh14/live.m3u8
-综合频道15,http://194.147.100.49:8030/zh15/live.m3u8
-国产院线1,http://194.147.100.49:8030/live18/live.m3u8
-国产院线2,http://194.147.100.49:8030/gcwx2/live.m3u8
-国产院线3,http://194.147.100.49:8030/gcwx3/live.m3u8
-国产院线4,http://194.147.100.49:8030/gcwx4/live.m3u8
-国产院线5,http://194.147.100.49:8030/gcwx5/live.m3u8
-港片1轮播,http://194.147.100.49:8030/hkdy1/live.m3u8
-港片2轮播,http://194.147.100.49:8030/hkdy2/live.m3u8
-好莱坞大片1,http://194.147.100.49:8030/hlwdy1/live.m3u8
-中外经典喜剧轮播,http://194.147.100.49:8030/live13/live.m3u8
-纪录片1,http://194.147.100.49:8030/jlp1/live.m3u8
-007全集轮播,http://194.147.100.49:8030/live5/live.m3u8
-碟中碟全集轮播,http://194.147.100.49:8030/live6/live.m3u8
-哈利·波特全集轮播,http://194.147.100.49:8030/live7/live.m3u8
-大决战合集,http://194.147.100.49:8030/live11/live.m3u8
-精彩电视剧,http://194.147.100.49:8030/dsj/live.m3u8
-狂飙,http://194.147.100.49:8030/live9/live.m3u8
-水浒传,http://194.147.100.49:8030/shz/live.m3u8
-庆余年,http://194.147.100.49:8030/qyn/live.m3u8
-琅琊榜,http://194.147.100.49:8030/lyb/live.m3u8
-警察荣誉,http://194.147.100.49:8030/live16/live.m3u8
-雪中悍刀行,http://194.147.100.49:8030/xzhdx/live.m3u8
-后宫·甄嬛传,http://194.147.100.49:8030/live8/live.m3u8
-武林外传,http://194.147.100.49:8030/live10/live.m3u8
-繁花,http://194.147.100.49:8030/live17/live.m3u8
-知否知否,http://194.147.100.49:8030/zfzf/live.m3u8
-风吹半夏,http://194.147.100.49:8030/fcbx/live.m3u8
-幸福到万家,http://194.147.100.49:8030/xfdwj/live.m3u8
-梦华录,http://194.147.100.49:8030/mhl/live.m3u8
+周星驰,http://diyp.zxxoo.work/huya/11342412
+周星驰粤语,http://diyp.zxxoo.work/huya/11336587
+林正英,http://diyp.zxxoo.work/huya/11342421
+成龙,http://diyp.zxxoo.work/huya/11342386
+许冠英,http://diyp.zxxoo.work/huya/11601972
+甄子丹,http://diyp.zxxoo.work/huya/11352935
+李连杰,http://diyp.zxxoo.work/huya/11342390
+洪金宝,http://diyp.zxxoo.work/huya/11279251
+王祖贤,http://diyp.zxxoo.work/huya/11336571
+刘德华,http://diyp.zxxoo.work/huya/11342424
+沈腾,http://diyp.zxxoo.work/huya/11601968
+王晶,http://diyp.zxxoo.work/huya/11602058
+周润发,http://diyp.zxxoo.work/huya/11342387
+杰森斯坦森,http://diyp.zxxoo.work/huya/21059588
+巨石强森,http://diyp.zxxoo.work/huya/21059581
+梁家辉,http://diyp.zxxoo.work/huya/11342429
+陈佩斯,http://diyp.zxxoo.work/huya/20985776
+吐槽大会,http://diyp.zxxoo.work/huya/21059555
+法外狂徒张三,http://diyp.zxxoo.work/huya/11601965
+五福星,http://diyp.zxxoo.work/huya/11282233
+铁齿铜牙纪晓岚,http://diyp.zxxoo.work/huya/11342396
+同福客栈,http://diyp.zxxoo.work/huya/25749066
+十大奇冤,http://diyp.zxxoo.work/huya/11352899
+海绵宝宝,http://diyp.zxxoo.work/huya/11352919
+杨光的快乐生活,http://diyp.zxxoo.work/huya/11602085
+金庸群侠,http://diyp.zxxoo.work/huya/11342427
+红色经典佳片,http://diyp.zxxoo.work/huya/11602076
+中华小当家,http://diyp.zxxoo.work/huya/11342413
+许氏三杰,http://diyp.zxxoo.work/huya/11602033
+异形,http://diyp.zxxoo.work/huya/21059577
+活佛济公,http://diyp.zxxoo.work/huya/11342400
+开心鬼,http://diyp.zxxoo.work/huya/11342423
+使徒行者,http://diyp.zxxoo.work/huya/23734256
+勇敢的心,http://diyp.zxxoo.work/huya/11602037
+成龙历险记,http://diyp.zxxoo.work/huya/11352946
+斗破苍穹,http://diyp.zxxoo.work/huya/11336572
+蜡笔小新,http://diyp.zxxoo.work/huya/11352970
+荒野求生,http://diyp.zxxoo.work/huya/24766781
+陈翔六点半,http://diyp.zxxoo.work/huya/11274154
+炊事班的故事,http://diyp.zxxoo.work/huya/19524135
+生活大爆炸,http://diyp.zxxoo.work/huya/11342417
+我是大哥大,http://diyp.zxxoo.work/huya/23652317
+死神来了,http://diyp.zxxoo.work/huya/11352903
+医馆笑传,http://diyp.zxxoo.work/huya/11352891
+老三国,http://diyp.zxxoo.work/huya/11602081
+胡八一,http://diyp.zxxoo.work/huya/11352871
+新三国,http://diyp.zxxoo.work/huya/11352944
+新水浒,http://diyp.zxxoo.work/huya/11342384
+庆余年,http://diyp.zxxoo.work/huya/11352960
+雍正王朝,http://diyp.zxxoo.work/huya/11342439
+士兵突击,http://diyp.zxxoo.work/huya/11342430
+爱情公寓,http://diyp.zxxoo.work/huya/11336726
+神探狄仁杰,http://diyp.zxxoo.work/huya/11342425
+家有儿女,http://diyp.zxxoo.work/huya/11352872
+网球王子,http://diyp.zxxoo.work/huya/11352882
+地下交通站,http://diyp.zxxoo.work/huya/11342433
+邻里一家亲,http://diyp.zxxoo.work/huya/11342426
+搞笑一家人,http://diyp.zxxoo.work/huya/11342402
+倚天屠龙记,http://diyp.zxxoo.work/huya/11342403
+经典小品,http://diyp.zxxoo.work/huya/11602068
 广场舞,#genre#
 
 狂沙,https://vd4.bdstatic.com/mda-najzxcse9bhb323a/fhd/cae_h264_nowatermark_delogo/1642800024587433510/mda-najzxcse9bhb323a.mp4
